@@ -422,8 +422,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-11T13:54:58.492526",
-    "fetch_duration_seconds": 31.004884,
+    "last_fetch_completed": "2026-01-11T18:04:56.419882",
+    "fetch_duration_seconds": 32.91967,
     "total_files_discovered": 71,
     "files_fetched_successfully": 70,
     "files_failed": 1,
@@ -434,7 +434,7 @@
     "total_files": 70,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-01-11T13:54:58.492552",
+  "last_updated": "2026-01-11T18:04:56.419911",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
