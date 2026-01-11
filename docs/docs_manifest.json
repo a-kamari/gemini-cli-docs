@@ -422,8 +422,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-11T16:46:14.994727",
-    "fetch_duration_seconds": 47.208855,
+    "last_fetch_completed": "2026-01-11T13:54:58.492526",
+    "fetch_duration_seconds": 31.004884,
     "total_files_discovered": 71,
     "files_fetched_successfully": 70,
     "files_failed": 1,
@@ -434,9 +434,9 @@
     "total_files": 70,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-01-11T16:46:14.994883",
-  "base_url": "https://raw.githubusercontent.com/YOUR_USERNAME/gemini-cli-docs/main/docs/",
-  "github_repository": "YOUR_USERNAME/gemini-cli-docs",
+  "last_updated": "2026-01-11T13:54:58.492552",
+  "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
+  "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
   "source_repository": "google-gemini/gemini-cli",
   "description": "Gemini CLI documentation manifest. Community mirror - not affiliated with Google."
