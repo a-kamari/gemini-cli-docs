@@ -9,7 +9,7 @@ echo "================================="
 
 # Fixed installation location
 INSTALL_DIR="$HOME/.gemini-cli-docs"
-REPO_URL="https://github.com/YOUR_USERNAME/gemini-cli-docs.git"
+REPO_URL="https://github.com/a-kamari/gemini-cli-docs.git"
 INSTALL_BRANCH="main"
 
 # Detect OS type
@@ -76,7 +76,7 @@ if [[ -f "$INSTALL_DIR/scripts/gemini-docs-helper.sh.template" ]]; then
     echo "Helper script installed"
 else
     echo "Template file missing, attempting recovery..."
-    if curl -fsSL "https://raw.githubusercontent.com/YOUR_USERNAME/gemini-cli-docs/$INSTALL_BRANCH/scripts/gemini-docs-helper.sh.template" -o "$INSTALL_DIR/gemini-docs-helper.sh" 2>/dev/null; then
+    if curl -fsSL "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/$INSTALL_BRANCH/scripts/gemini-docs-helper.sh.template" -o "$INSTALL_DIR/gemini-docs-helper.sh" 2>/dev/null; then
         chmod +x "$INSTALL_DIR/gemini-docs-helper.sh"
         echo "Helper script downloaded directly"
     else

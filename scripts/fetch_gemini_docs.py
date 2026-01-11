@@ -73,13 +73,13 @@ def save_manifest(docs_dir: Path, manifest: dict) -> None:
     manifest["last_updated"] = datetime.now().isoformat()
 
     # Get GitHub repository from environment or use default
-    github_repo = os.environ.get('GITHUB_REPOSITORY', 'YOUR_USERNAME/gemini-cli-docs')
+    github_repo = os.environ.get('GITHUB_REPOSITORY', 'a-kamari/gemini-cli-docs')
     github_ref = os.environ.get('GITHUB_REF_NAME', 'main')
 
     # Validate repository name format
     if not re.match(r'^[\w.-]+/[\w.-]+$', github_repo):
         logger.warning(f"Invalid repository format: {github_repo}")
-        github_repo = 'YOUR_USERNAME/gemini-cli-docs'
+        github_repo = 'a-kamari/gemini-cli-docs'
 
     manifest["base_url"] = f"https://raw.githubusercontent.com/{github_repo}/{github_ref}/docs/"
     manifest["github_repository"] = github_repo
@@ -320,7 +320,7 @@ def main():
     logger.info("Starting Gemini CLI documentation fetch")
 
     # Get GitHub repository info
-    github_repo = os.environ.get('GITHUB_REPOSITORY', 'YOUR_USERNAME/gemini-cli-docs')
+    github_repo = os.environ.get('GITHUB_REPOSITORY', 'a-kamari/gemini-cli-docs')
     logger.info(f"Target repository: {github_repo}")
 
     # Create docs directory

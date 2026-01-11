@@ -19,7 +19,7 @@ sanitize_input() {
 
 # Function to print documentation header
 print_doc_header() {
-    echo "Community Mirror: https://github.com/YOUR_USERNAME/gemini-cli-docs"
+    echo "Community Mirror: https://github.com/a-kamari/gemini-cli-docs"
     echo "Official Docs: https://geminicli.com/docs"
     echo "Source Repo: https://github.com/google-gemini/gemini-cli"
     echo ""
@@ -60,7 +60,7 @@ show_freshness() {
     if [[ ! -f "$MANIFEST" ]]; then
         echo "Error: Documentation not found at ~/.gemini-cli-docs"
         echo "Please reinstall with:"
-        echo "curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/gemini-cli-docs/main/install.sh | bash"
+        echo "curl -fsSL https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/install.sh | bash"
         exit 1
     fi
 
@@ -256,7 +256,7 @@ whats_new() {
         local date=$(git show -s --format=%cr "$hash" 2>/dev/null || echo "unknown")
 
         echo "- $date:"
-        echo "  https://github.com/YOUR_USERNAME/gemini-cli-docs/commit/$hash"
+        echo "  https://github.com/a-kamari/gemini-cli-docs/commit/$hash"
 
         local changed_docs=$(git diff-tree --no-commit-id --name-only -r "$hash" -- docs/*.md 2>/dev/null | sed 's|docs/||' | sed 's|\.md$||' | head -5)
         if [[ -n "$changed_docs" ]]; then
@@ -273,7 +273,7 @@ whats_new() {
         echo ""
     fi
 
-    echo "Full changelog: https://github.com/YOUR_USERNAME/gemini-cli-docs/commits/main/docs"
+    echo "Full changelog: https://github.com/a-kamari/gemini-cli-docs/commits/main/docs"
     echo "COMMUNITY MIRROR - NOT AFFILIATED WITH GOOGLE"
 
     set -e

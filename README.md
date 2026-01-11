@@ -5,7 +5,7 @@ Community-maintained local mirror of [Google Gemini CLI](https://github.com/goog
 ## Quick Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/gemini-cli-docs/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/install.sh | bash
 ```
 
 ## Usage
