@@ -1,0 +1,443 @@
+{
+  "files": {
+    "architecture.md": {
+      "original_path": "docs/architecture.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/architecture.md",
+      "hash": "d44c8ff41d4bc8e479cb32598c875619662fc0a51499232e018a97ce32296087",
+      "last_updated": "2026-01-11T16:45:30.094462"
+    },
+    "changelogs__index.md": {
+      "original_path": "docs/changelogs/index.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/changelogs/index.md",
+      "hash": "15a975653e9fe898eb3ca25e86b2d2af7ba3d92906968ae6c93b9b8ff247738a",
+      "last_updated": "2026-01-11T16:45:30.739985"
+    },
+    "changelogs__latest.md": {
+      "original_path": "docs/changelogs/latest.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/changelogs/latest.md",
+      "hash": "1fb76faf8befbe0a1499233a72a1b505c5cd58ee58b38ac776bab986b4372fb2",
+      "last_updated": "2026-01-11T16:45:31.380509"
+    },
+    "changelogs__preview.md": {
+      "original_path": "docs/changelogs/preview.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/changelogs/preview.md",
+      "hash": "176b45eab3f6bf032b96b0a2f4368a854d63418a096b72130540377e4cded02d",
+      "last_updated": "2026-01-11T16:45:32.013385"
+    },
+    "changelogs__releases.md": {
+      "original_path": "docs/changelogs/releases.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/changelogs/releases.md",
+      "hash": "3ae8bba8208a9dc4f3299eb5c34c598d1229319437d1cbc339651ba4b31d1634",
+      "last_updated": "2026-01-11T16:45:32.688004"
+    },
+    "cli__authentication.md": {
+      "original_path": "docs/cli/authentication.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/authentication.md",
+      "hash": "824d7aa77d42d37d2f01dfa873cc9075e2c65e0c26d338ed3deb193f928ad356",
+      "last_updated": "2026-01-11T16:45:33.314425"
+    },
+    "cli__checkpointing.md": {
+      "original_path": "docs/cli/checkpointing.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/checkpointing.md",
+      "hash": "5010cecfeb2db5719363802f1cc7841f54e6f31f34c2c9517165a1616e774b69",
+      "last_updated": "2026-01-11T16:45:33.944739"
+    },
+    "cli__commands.md": {
+      "original_path": "docs/cli/commands.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/commands.md",
+      "hash": "a997aaa31243bc8d2005619ed3970006646f01ed96f8405e19ad223b3d7d8ddc",
+      "last_updated": "2026-01-11T16:45:34.606729"
+    },
+    "cli__custom-commands.md": {
+      "original_path": "docs/cli/custom-commands.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/custom-commands.md",
+      "hash": "2562e7f541efe1c73692f3e30e3d9ce0c4e840c4dc9a124e2f9cfe3323719b2f",
+      "last_updated": "2026-01-11T16:45:35.242773"
+    },
+    "cli__enterprise.md": {
+      "original_path": "docs/cli/enterprise.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/enterprise.md",
+      "hash": "29f5052714304676e99a4469eac4bb6074f1098e899d20684160aaeec76d5d38",
+      "last_updated": "2026-01-11T16:45:35.884654"
+    },
+    "cli__gemini-ignore.md": {
+      "original_path": "docs/cli/gemini-ignore.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/gemini-ignore.md",
+      "hash": "51c399d26413d1e1abaab028e48a38a2ded7e8e1ff4a7b8c9e5a49a8c10363fe",
+      "last_updated": "2026-01-11T16:45:36.528646"
+    },
+    "cli__gemini-md.md": {
+      "original_path": "docs/cli/gemini-md.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/gemini-md.md",
+      "hash": "95f5864dbf72bd382d377815bc8b15e9925f82595d603579a078f1dd17bc7289",
+      "last_updated": "2026-01-11T16:45:37.160776"
+    },
+    "cli__generation-settings.md": {
+      "original_path": "docs/cli/generation-settings.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/generation-settings.md",
+      "hash": "a0ab4a45296f4051dc3a4b1055f47c047c17febc7a1e14c7b69da77433aac3ea",
+      "last_updated": "2026-01-11T16:45:37.818756"
+    },
+    "cli__headless.md": {
+      "original_path": "docs/cli/headless.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/headless.md",
+      "hash": "9c75b2a7d2540f3ed95213652f4538203dd2b7571c59ec1ca9e91413a441cbf9",
+      "last_updated": "2026-01-11T16:45:38.445937"
+    },
+    "cli__index.md": {
+      "original_path": "docs/cli/index.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/index.md",
+      "hash": "d1357584c5418e07adf165a3f94495e55c38152ae5e2c3a6d45a03aa4723042f",
+      "last_updated": "2026-01-11T16:45:39.084441"
+    },
+    "cli__keyboard-shortcuts.md": {
+      "original_path": "docs/cli/keyboard-shortcuts.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/keyboard-shortcuts.md",
+      "hash": "a77b1d47363ff87ea3662a385eba4d2e2841007360c7277a5102aafa4b8ed1dc",
+      "last_updated": "2026-01-11T16:45:39.720927"
+    },
+    "cli__model-routing.md": {
+      "original_path": "docs/cli/model-routing.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/model-routing.md",
+      "hash": "4ed0b688d31b856aec56bd344e4cab9027c466d74fe575b9f8fbf40391bb39fa",
+      "last_updated": "2026-01-11T16:45:40.369632"
+    },
+    "cli__model.md": {
+      "original_path": "docs/cli/model.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/model.md",
+      "hash": "50f7a0db951884e947c59a70e402c85285f7cc6c62f7ebb372c782b3f524d4ae",
+      "last_updated": "2026-01-11T16:45:41.003065"
+    },
+    "cli__sandbox.md": {
+      "original_path": "docs/cli/sandbox.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/sandbox.md",
+      "hash": "ec6056a9a25d3b0a622a57488b00de18afda3d783f0af44a0ce25b954ae7edfb",
+      "last_updated": "2026-01-11T16:45:41.629081"
+    },
+    "cli__session-management.md": {
+      "original_path": "docs/cli/session-management.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/session-management.md",
+      "hash": "eeb083537e24c478526192af1ada15957b708d6be2b0d0fa6c836b031ecdd991",
+      "last_updated": "2026-01-11T16:45:42.253791"
+    },
+    "cli__settings.md": {
+      "original_path": "docs/cli/settings.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/settings.md",
+      "hash": "54769f13f90a7837ab2a808e8745a7dada469646f60f4ee135ceb5fb9d52501e",
+      "last_updated": "2026-01-11T16:45:42.884292"
+    },
+    "cli__skills.md": {
+      "original_path": "docs/cli/skills.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/skills.md",
+      "hash": "dd549018e925177fdfb4837a2d49c204e8aa4fff2e7e61f7be6b589ca59a58c5",
+      "last_updated": "2026-01-11T16:45:43.526779"
+    },
+    "cli__system-prompt.md": {
+      "original_path": "docs/cli/system-prompt.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/system-prompt.md",
+      "hash": "3f0da59e6d0c58902fbcf36792af6870d3633126674b902118e66bdc708d9809",
+      "last_updated": "2026-01-11T16:45:44.151956"
+    },
+    "cli__telemetry.md": {
+      "original_path": "docs/cli/telemetry.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/telemetry.md",
+      "hash": "12a72b508cbf025c2d1a68451729e1bca25b7d56091ae70394d2e375ec8436d0",
+      "last_updated": "2026-01-11T16:45:44.793689"
+    },
+    "cli__themes.md": {
+      "original_path": "docs/cli/themes.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/themes.md",
+      "hash": "6c573f4cd63c2c2900f68104a1d0cf325ad736dbf6cbc6135b90b37f9de32c4d",
+      "last_updated": "2026-01-11T16:45:45.424905"
+    },
+    "cli__token-caching.md": {
+      "original_path": "docs/cli/token-caching.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/token-caching.md",
+      "hash": "0cd2b222377c8874b7cb4e52fc8f61e198643e716aea987855d0d4780ad54f12",
+      "last_updated": "2026-01-11T16:45:46.061917"
+    },
+    "cli__trusted-folders.md": {
+      "original_path": "docs/cli/trusted-folders.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/trusted-folders.md",
+      "hash": "6254960b0c0b3d3048ee8672462594f1b39e1af6270a97c3a7ac72d00ad93b88",
+      "last_updated": "2026-01-11T16:45:46.696342"
+    },
+    "cli__tutorials.md": {
+      "original_path": "docs/cli/tutorials.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/tutorials.md",
+      "hash": "da7475ddf0c73a36e55a58b1baf86c9cf0dcee970dd8de46ef06a88d4a2596ab",
+      "last_updated": "2026-01-11T16:45:47.421431"
+    },
+    "cli__tutorials__skills-getting-started.md": {
+      "original_path": "docs/cli/tutorials/skills-getting-started.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/tutorials/skills-getting-started.md",
+      "hash": "18fa0d1d84d660daa4440bb3ec65563a05b3659bc046f9d08b81ed99eb239076",
+      "last_updated": "2026-01-11T16:45:48.061915"
+    },
+    "cli__uninstall.md": {
+      "original_path": "docs/cli/uninstall.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/uninstall.md",
+      "hash": "86c6ac4a17a68a84dbbc2fb8f260ffdbbc5b9bf96b14f45aa10a7c2d65b8c91a",
+      "last_updated": "2026-01-11T16:45:48.714257"
+    },
+    "core__index.md": {
+      "original_path": "docs/core/index.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/core/index.md",
+      "hash": "befa4cabb7029474ac8363ef1cf1dca3aa415e4370a7ae56633b4821d532cb63",
+      "last_updated": "2026-01-11T16:45:49.342102"
+    },
+    "core__memport.md": {
+      "original_path": "docs/core/memport.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/core/memport.md",
+      "hash": "5791f9831434d17c4e649346174ff9e7cd5a665a96c0db8c29f495dfe03dbfb8",
+      "last_updated": "2026-01-11T16:45:50.056141"
+    },
+    "core__policy-engine.md": {
+      "original_path": "docs/core/policy-engine.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/core/policy-engine.md",
+      "hash": "5f5db25d15ef84777b110cb665958374f79f7a843b82c92ffa850b04c6c74a77",
+      "last_updated": "2026-01-11T16:45:50.693076"
+    },
+    "core__tools-api.md": {
+      "original_path": "docs/core/tools-api.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/core/tools-api.md",
+      "hash": "aef18e7c29b91c821fe49dd75312c754782bf85bb4d63e3806c544cd276dbf5c",
+      "last_updated": "2026-01-11T16:45:51.343231"
+    },
+    "examples__proxy-script.md": {
+      "original_path": "docs/examples/proxy-script.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/examples/proxy-script.md",
+      "hash": "365fdeb71a8baf51b4793df6ab9a71e5fe6e6a99a5f2372c8660d0525352e8ba",
+      "last_updated": "2026-01-11T16:45:51.974729"
+    },
+    "extensions__extension-releasing.md": {
+      "original_path": "docs/extensions/extension-releasing.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/extensions/extension-releasing.md",
+      "hash": "7162ee3c9e1f7a4b7c279157a1e9462d7780cbef8678653a153182bd53c4c9c5",
+      "last_updated": "2026-01-11T16:45:52.693069"
+    },
+    "extensions__getting-started-extensions.md": {
+      "original_path": "docs/extensions/getting-started-extensions.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/extensions/getting-started-extensions.md",
+      "hash": "8b042e23bf9731ea52edcc50cca4569c263c853a996864d5854f8c5d2d94259a",
+      "last_updated": "2026-01-11T16:45:53.331248"
+    },
+    "extensions__index.md": {
+      "original_path": "docs/extensions/index.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/extensions/index.md",
+      "hash": "34fcb31009965ecc89620354dffdc88e698264942ff33a85f295ee3cda404f39",
+      "last_updated": "2026-01-11T16:45:53.971503"
+    },
+    "faq.md": {
+      "original_path": "docs/faq.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/faq.md",
+      "hash": "56f2f67403fafac8f459b317f6ad026d5073fffdd77491580e22abad56f346e8",
+      "last_updated": "2026-01-11T16:45:54.614055"
+    },
+    "get-started__authentication.md": {
+      "original_path": "docs/get-started/authentication.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/get-started/authentication.md",
+      "hash": "7e1f8af6e470beef91e74fc68f149e2c1ca8bdce5cdb3501f2d044dcc591ce9a",
+      "last_updated": "2026-01-11T16:45:55.251246"
+    },
+    "get-started__configuration-v1.md": {
+      "original_path": "docs/get-started/configuration-v1.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/get-started/configuration-v1.md",
+      "hash": "0c6a9749d0803eee152c19366be0c462653a698f0932b6b0e269c43ef58fe4b2",
+      "last_updated": "2026-01-11T16:45:55.926413"
+    },
+    "get-started__configuration.md": {
+      "original_path": "docs/get-started/configuration.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/get-started/configuration.md",
+      "hash": "8098d201e8c925bd65c9e2a5601f92ba3ae818eb162f5ec447cae3b0bc7c94f3",
+      "last_updated": "2026-01-11T16:45:56.568083"
+    },
+    "get-started__examples.md": {
+      "original_path": "docs/get-started/examples.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/get-started/examples.md",
+      "hash": "4514f15cbcb54d99ab27634e87fc1b69e955a72838956b51786449414ad889b9",
+      "last_updated": "2026-01-11T16:45:57.209775"
+    },
+    "get-started__gemini-3.md": {
+      "original_path": "docs/get-started/gemini-3.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/get-started/gemini-3.md",
+      "hash": "0eb0f1783a5fd5b25839ad7f1f0e63faff2e7d2b10b2b6124dfad7e8c6514508",
+      "last_updated": "2026-01-11T16:45:57.857392"
+    },
+    "get-started__index.md": {
+      "original_path": "docs/get-started/index.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/get-started/index.md",
+      "hash": "3dd4681d287d4e93fe3f65249696d3b9f0bd4fb3ebcd0f369ece16db7e3b5e27",
+      "last_updated": "2026-01-11T16:45:58.498820"
+    },
+    "get-started__installation.md": {
+      "original_path": "docs/get-started/installation.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/get-started/installation.md",
+      "hash": "8c86bd31e2a279254a3b7219dedfab05701c635b64dd3eb23ad440f9fbbf2d62",
+      "last_updated": "2026-01-11T16:45:59.126466"
+    },
+    "hooks__best-practices.md": {
+      "original_path": "docs/hooks/best-practices.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/hooks/best-practices.md",
+      "hash": "8bb5f1727d7c73dc634bdacfb4af6affe3ba2cab4d5d54c8beafe622a9d9af56",
+      "last_updated": "2026-01-11T16:45:59.754942"
+    },
+    "hooks__index.md": {
+      "original_path": "docs/hooks/index.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/hooks/index.md",
+      "hash": "0930ff07a118e62439be1dacf1e85285862dec7cab0c17a061d716d83d7d227c",
+      "last_updated": "2026-01-11T16:46:00.394754"
+    },
+    "hooks__reference.md": {
+      "original_path": "docs/hooks/reference.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/hooks/reference.md",
+      "hash": "d78d5c1ec8b1d3f0b038134736606fa65d8dfc3cf152fa7642ad03c24b0dee8f",
+      "last_updated": "2026-01-11T16:46:01.092192"
+    },
+    "hooks__writing-hooks.md": {
+      "original_path": "docs/hooks/writing-hooks.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/hooks/writing-hooks.md",
+      "hash": "12ffebf4102d7c840f52aef1cc1c578493bd485782bf40e06aa6d344af343da4",
+      "last_updated": "2026-01-11T16:46:01.726699"
+    },
+    "ide-integration__ide-companion-spec.md": {
+      "original_path": "docs/ide-integration/ide-companion-spec.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/ide-integration/ide-companion-spec.md",
+      "hash": "beabe46c290e16037df7228ce7c6a4f2f2fccd9813d914ae8337b2f1e2c2c271",
+      "last_updated": "2026-01-11T16:46:02.402900"
+    },
+    "ide-integration__index.md": {
+      "original_path": "docs/ide-integration/index.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/ide-integration/index.md",
+      "hash": "a95c995fea571f1144a0575fb44d0ba450ad64e49bd6290984d012c17f4c220c",
+      "last_updated": "2026-01-11T16:46:03.060162"
+    },
+    "index.md": {
+      "original_path": "docs/index.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/index.md",
+      "hash": "b2d117cd54066eb2c91c403ded8d581d395dfdbd40f28b10396c4f548f6fa81c",
+      "last_updated": "2026-01-11T16:46:03.695789"
+    },
+    "integration-tests.md": {
+      "original_path": "docs/integration-tests.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/integration-tests.md",
+      "hash": "c34af8f398b565cb5ccc7b2565d679a37262e98022bd7820ccc9a35557068986",
+      "last_updated": "2026-01-11T16:46:04.338114"
+    },
+    "issue-and-pr-automation.md": {
+      "original_path": "docs/issue-and-pr-automation.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/issue-and-pr-automation.md",
+      "hash": "95caaa17eba699af8ecd82aa8f3896759edab167d66cb71692e000a835e8efa6",
+      "last_updated": "2026-01-11T16:46:05.002492"
+    },
+    "local-development.md": {
+      "original_path": "docs/local-development.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/local-development.md",
+      "hash": "4ec8ba1bf5aea1e5a7944b3122ef5e77762b46d324c2bae779e03e68cde5190c",
+      "last_updated": "2026-01-11T16:46:05.635313"
+    },
+    "npm.md": {
+      "original_path": "docs/npm.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/npm.md",
+      "hash": "4bfca6c894a3e0ca021044257464ac5c659b482577624ede56e97cde1699c432",
+      "last_updated": "2026-01-11T16:46:06.270833"
+    },
+    "quota-and-pricing.md": {
+      "original_path": "docs/quota-and-pricing.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/quota-and-pricing.md",
+      "hash": "994abacac8922170292307a71ea5b7802b0f576a182e15ff38a2f6aada610d4e",
+      "last_updated": "2026-01-11T16:46:07.049808"
+    },
+    "release-confidence.md": {
+      "original_path": "docs/release-confidence.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/release-confidence.md",
+      "hash": "bffc97dc7a9726296c3b61a229fee8ac4e5356ed0e61c8a0e8fff92b10c47c00",
+      "last_updated": "2026-01-11T16:46:07.685820"
+    },
+    "releases.md": {
+      "original_path": "docs/releases.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/releases.md",
+      "hash": "d87d1cfdbc4f455c1877575a8e89a1d1e9a5fbcbec2f04f8d122d3ea5731f73f",
+      "last_updated": "2026-01-11T16:46:08.334036"
+    },
+    "tools__file-system.md": {
+      "original_path": "docs/tools/file-system.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/tools/file-system.md",
+      "hash": "99f9c939026dd5c03c1c8b3c6aa537566d499c88894f825919e075c443662072",
+      "last_updated": "2026-01-11T16:46:08.965769"
+    },
+    "tools__index.md": {
+      "original_path": "docs/tools/index.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/tools/index.md",
+      "hash": "5d1d05224cfe07d014ddf700676f37bb7f355c1652c556df0f21ced009af8347",
+      "last_updated": "2026-01-11T16:46:09.593190"
+    },
+    "tools__mcp-server.md": {
+      "original_path": "docs/tools/mcp-server.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/tools/mcp-server.md",
+      "hash": "9a25d3ef82edf02060862b1547b048bde14d87ca0a57130bffe2ed30bf6bc866",
+      "last_updated": "2026-01-11T16:46:10.244672"
+    },
+    "tools__memory.md": {
+      "original_path": "docs/tools/memory.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/tools/memory.md",
+      "hash": "07b14a859037bfb04bba6012b0f1960280d88473ccd35c54c36ceacac04a9f33",
+      "last_updated": "2026-01-11T16:46:10.896333"
+    },
+    "tools__shell.md": {
+      "original_path": "docs/tools/shell.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/tools/shell.md",
+      "hash": "b6c4835e606bb35b4f9bf8bd30fb77be5cfd86bf433761f74c76564a570c37e2",
+      "last_updated": "2026-01-11T16:46:11.522563"
+    },
+    "tools__todos.md": {
+      "original_path": "docs/tools/todos.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/tools/todos.md",
+      "hash": "f191ba89bdc11a3c0606c03d973dbc463f548f67085b2bf889b915f2ad85b47f",
+      "last_updated": "2026-01-11T16:46:12.151797"
+    },
+    "tools__web-fetch.md": {
+      "original_path": "docs/tools/web-fetch.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/tools/web-fetch.md",
+      "hash": "5e7529881f48bb5a708f534e8a945936228a0a536666000ab02d8419ce337db3",
+      "last_updated": "2026-01-11T16:46:12.779088"
+    },
+    "tools__web-search.md": {
+      "original_path": "docs/tools/web-search.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/tools/web-search.md",
+      "hash": "7816867eb27cf070547ff957f90c1d1e7a24c0361779fea9d113d8cde2a79739",
+      "last_updated": "2026-01-11T16:46:13.407932"
+    },
+    "tos-privacy.md": {
+      "original_path": "docs/tos-privacy.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/tos-privacy.md",
+      "hash": "e28e1390b0fc8bd7a658a70b22ef00f0f61952c72fe04a87e4599fd78fd32ad1",
+      "last_updated": "2026-01-11T16:46:14.043832"
+    },
+    "troubleshooting.md": {
+      "original_path": "docs/troubleshooting.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/troubleshooting.md",
+      "hash": "f5232748e738bd53c71b342b1fabd0e8f9d03098a1c8fb1f1882d7f13b04a484",
+      "last_updated": "2026-01-11T16:46:14.671587"
+    }
+  },
+  "fetch_metadata": {
+    "last_fetch_completed": "2026-01-11T16:46:14.994727",
+    "fetch_duration_seconds": 47.208855,
+    "total_files_discovered": 71,
+    "files_fetched_successfully": 70,
+    "files_failed": 1,
+    "failed_files": [
+      "docs/CONTRIBUTING.md"
+    ],
+    "source_repository": "google-gemini/gemini-cli",
+    "total_files": 70,
+    "fetch_tool_version": "1.0"
+  },
+  "last_updated": "2026-01-11T16:46:14.994883",
+  "base_url": "https://raw.githubusercontent.com/YOUR_USERNAME/gemini-cli-docs/main/docs/",
+  "github_repository": "YOUR_USERNAME/gemini-cli-docs",
+  "github_ref": "main",
+  "source_repository": "google-gemini/gemini-cli",
+  "description": "Gemini CLI documentation manifest. Community mirror - not affiliated with Google."
+}
