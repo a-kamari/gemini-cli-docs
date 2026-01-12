@@ -195,8 +195,8 @@
     "core__policy-engine.md": {
       "original_path": "docs/core/policy-engine.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/core/policy-engine.md",
-      "hash": "5f5db25d15ef84777b110cb665958374f79f7a843b82c92ffa850b04c6c74a77",
-      "last_updated": "2026-01-11T16:45:50.693076"
+      "hash": "b6d7beaee46fc9074b1b9d2061a30228803835f4a3f4e7546d523d00993666ba",
+      "last_updated": "2026-01-12T12:06:22.449620"
     },
     "core__tools-api.md": {
       "original_path": "docs/core/tools-api.md",
@@ -285,8 +285,8 @@
     "hooks__index.md": {
       "original_path": "docs/hooks/index.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/hooks/index.md",
-      "hash": "0930ff07a118e62439be1dacf1e85285862dec7cab0c17a061d716d83d7d227c",
-      "last_updated": "2026-01-11T16:46:00.394754"
+      "hash": "6acb1255bbbb16b52dfe9e4ffd6dfbc6703eaa5c878b59a12a4a0566b7894192",
+      "last_updated": "2026-01-12T12:06:29.499916"
     },
     "hooks__reference.md": {
       "original_path": "docs/hooks/reference.md",
@@ -422,8 +422,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-12T06:07:02.448438",
-    "fetch_duration_seconds": 30.856694,
+    "last_fetch_completed": "2026-01-12T12:06:39.821792",
+    "fetch_duration_seconds": 33.672141,
     "total_files_discovered": 71,
     "files_fetched_successfully": 70,
     "files_failed": 1,
@@ -434,7 +434,7 @@
     "total_files": 70,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-01-12T06:07:02.448462",
+  "last_updated": "2026-01-12T12:06:39.821825",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
