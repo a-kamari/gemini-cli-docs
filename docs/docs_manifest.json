@@ -249,8 +249,8 @@
     "get-started__configuration.md": {
       "original_path": "docs/get-started/configuration.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/get-started/configuration.md",
-      "hash": "93efca75a4189995eaef07ca122010905f7307f34a204323ad4f16dd2437fb33",
-      "last_updated": "2026-01-14T00:14:21.996968"
+      "hash": "cfa02fba543cb4ea81f192a22f55a816f9e219ee8d1d1fba0a274c757b1ef53a",
+      "last_updated": "2026-01-14T12:06:08.196036"
     },
     "get-started__examples.md": {
       "original_path": "docs/get-started/examples.md",
@@ -422,8 +422,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-14T06:06:11.620149",
-    "fetch_duration_seconds": 26.450771,
+    "last_fetch_completed": "2026-01-14T12:06:18.737221",
+    "fetch_duration_seconds": 26.509416,
     "total_files_discovered": 71,
     "files_fetched_successfully": 70,
     "files_failed": 1,
@@ -434,7 +434,7 @@
     "total_files": 70,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-01-14T06:06:11.620175",
+  "last_updated": "2026-01-14T12:06:18.737267",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
