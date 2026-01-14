@@ -3,8 +3,8 @@
     "architecture.md": {
       "original_path": "docs/architecture.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/architecture.md",
-      "hash": "d44c8ff41d4bc8e479cb32598c875619662fc0a51499232e018a97ce32296087",
-      "last_updated": "2026-01-11T16:45:30.094462"
+      "hash": "781a2e193ad3e34e8e7f9c06e9e7ea90163677d16351819f2b101a4e715ae3d6",
+      "last_updated": "2026-01-14T18:04:54.678204"
     },
     "changelogs__index.md": {
       "original_path": "docs/changelogs/index.md",
@@ -45,8 +45,8 @@
     "cli__commands.md": {
       "original_path": "docs/cli/commands.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/commands.md",
-      "hash": "685a6b1d3c4c8541081aed2ace856f744c72a5f2a39a8f605ad55faf3e3b0eff",
-      "last_updated": "2026-01-14T00:14:09.221306"
+      "hash": "c6a9fd04a856164d001e5a2175818311d625719f3363bf7fdcbfad898aeee570",
+      "last_updated": "2026-01-14T18:04:57.381154"
     },
     "cli__custom-commands.md": {
       "original_path": "docs/cli/custom-commands.md",
@@ -93,8 +93,8 @@
     "cli__keyboard-shortcuts.md": {
       "original_path": "docs/cli/keyboard-shortcuts.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/keyboard-shortcuts.md",
-      "hash": "2d5f38aad2fad91c3b61f2c811d34b68d8525b391f6816420bff4f8b838c12a1",
-      "last_updated": "2026-01-14T00:14:12.214839"
+      "hash": "7f777f021dc0267430a4c7606342d36397c32fd2fd783d5317e69be60d4f8ff4",
+      "last_updated": "2026-01-14T18:05:00.402390"
     },
     "cli__model-routing.md": {
       "original_path": "docs/cli/model-routing.md",
@@ -107,6 +107,12 @@
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/model.md",
       "hash": "50f7a0db951884e947c59a70e402c85285f7cc6c62f7ebb372c782b3f524d4ae",
       "last_updated": "2026-01-11T16:45:41.003065"
+    },
+    "cli__rewind.md": {
+      "original_path": "docs/cli/rewind.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/rewind.md",
+      "hash": "57b085072f6f2b69b0bcb88513120f29444e6cb98495c6115b4e45dc3b9629d1",
+      "last_updated": "2026-01-14T18:05:01.577343"
     },
     "cli__sandbox.md": {
       "original_path": "docs/cli/sandbox.md",
@@ -249,8 +255,8 @@
     "get-started__configuration.md": {
       "original_path": "docs/get-started/configuration.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/get-started/configuration.md",
-      "hash": "cfa02fba543cb4ea81f192a22f55a816f9e219ee8d1d1fba0a274c757b1ef53a",
-      "last_updated": "2026-01-14T12:06:08.196036"
+      "hash": "056aa05296fe9cf1117994f3a14e655f0c91e48c3b2b660034a48fb96fd1cffd",
+      "last_updated": "2026-01-14T18:05:10.677460"
     },
     "get-started__examples.md": {
       "original_path": "docs/get-started/examples.md",
@@ -375,8 +381,8 @@
     "tools__mcp-server.md": {
       "original_path": "docs/tools/mcp-server.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/tools/mcp-server.md",
-      "hash": "9a25d3ef82edf02060862b1547b048bde14d87ca0a57130bffe2ed30bf6bc866",
-      "last_updated": "2026-01-11T16:46:10.244672"
+      "hash": "442051d8747d13f2680bdae2aad00f1bf4489e8b1a13b7df0f2a6af69653469b",
+      "last_updated": "2026-01-14T18:05:18.754635"
     },
     "tools__memory.md": {
       "original_path": "docs/tools/memory.md",
@@ -417,24 +423,24 @@
     "troubleshooting.md": {
       "original_path": "docs/troubleshooting.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/troubleshooting.md",
-      "hash": "f5232748e738bd53c71b342b1fabd0e8f9d03098a1c8fb1f1882d7f13b04a484",
-      "last_updated": "2026-01-11T16:46:14.671587"
+      "hash": "113968594863a72ae8b92746567f996ee3f9885e4dd775ac88417c49c0eb74c2",
+      "last_updated": "2026-01-14T18:05:21.418697"
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-14T12:06:18.737221",
-    "fetch_duration_seconds": 26.509416,
-    "total_files_discovered": 71,
-    "files_fetched_successfully": 70,
+    "last_fetch_completed": "2026-01-14T18:05:21.471117",
+    "fetch_duration_seconds": 27.204613,
+    "total_files_discovered": 72,
+    "files_fetched_successfully": 71,
     "files_failed": 1,
     "failed_files": [
       "docs/CONTRIBUTING.md"
     ],
     "source_repository": "google-gemini/gemini-cli",
-    "total_files": 70,
+    "total_files": 71,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-01-14T12:06:18.737267",
+  "last_updated": "2026-01-14T18:05:21.471143",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
