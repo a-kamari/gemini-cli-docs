@@ -93,8 +93,8 @@
     "cli__keyboard-shortcuts.md": {
       "original_path": "docs/cli/keyboard-shortcuts.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/keyboard-shortcuts.md",
-      "hash": "788a54cbb1be7f0c5d95cc378e9a329725d53af97d2022d5bded94f527385cba",
-      "last_updated": "2026-01-15T06:05:35.781651"
+      "hash": "f7d07de205a117bbbf957ac7720ff22472d9b60d39fe61287d1cc689169cbb00",
+      "last_updated": "2026-01-16T18:04:52.682165"
     },
     "cli__model-routing.md": {
       "original_path": "docs/cli/model-routing.md",
@@ -428,8 +428,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-16T12:06:16.478699",
-    "fetch_duration_seconds": 31.020838,
+    "last_fetch_completed": "2026-01-16T18:05:16.374085",
+    "fetch_duration_seconds": 30.923169,
     "total_files_discovered": 72,
     "files_fetched_successfully": 71,
     "files_failed": 1,
@@ -440,7 +440,7 @@
     "total_files": 71,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-01-16T12:06:16.478735",
+  "last_updated": "2026-01-16T18:05:16.374116",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
