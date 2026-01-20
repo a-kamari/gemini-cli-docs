@@ -147,8 +147,8 @@
     "cli__themes.md": {
       "original_path": "docs/cli/themes.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/themes.md",
-      "hash": "6c573f4cd63c2c2900f68104a1d0cf325ad736dbf6cbc6135b90b37f9de32c4d",
-      "last_updated": "2026-01-11T16:45:45.424905"
+      "hash": "9ab2dd151fbb233ec8c5249f9327f5b4f128999e1605eaf1a6c49b03f5960a94",
+      "last_updated": "2026-01-20T06:06:26.921735"
     },
     "cli__token-caching.md": {
       "original_path": "docs/cli/token-caching.md",
@@ -249,8 +249,8 @@
     "get-started__configuration.md": {
       "original_path": "docs/get-started/configuration.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/get-started/configuration.md",
-      "hash": "9f238e6f3fd9c4d30ba076f3c2443788af7cb6b60248bcd2c88d7223fa3312df",
-      "last_updated": "2026-01-19T18:05:06.450789"
+      "hash": "0c76636ecb7fa6de284cb1b2f6bd24b1d9b92f1576bd9a5c420da22c8b34a949",
+      "last_updated": "2026-01-20T06:06:34.377715"
     },
     "get-started__examples.md": {
       "original_path": "docs/get-started/examples.md",
@@ -422,8 +422,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-20T00:13:58.571727",
-    "fetch_duration_seconds": 30.390846,
+    "last_fetch_completed": "2026-01-20T06:06:46.032866",
+    "fetch_duration_seconds": 29.417563,
     "total_files_discovered": 71,
     "files_fetched_successfully": 70,
     "files_failed": 1,
@@ -434,7 +434,7 @@
     "total_files": 70,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-01-20T00:13:58.571755",
+  "last_updated": "2026-01-20T06:06:46.032899",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
