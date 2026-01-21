@@ -45,8 +45,8 @@
     "cli__commands.md": {
       "original_path": "docs/cli/commands.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/commands.md",
-      "hash": "90ebcda711f6aada631a076643b25eddfeaaf721b69e2ca0673af97758af5d2e",
-      "last_updated": "2026-01-17T00:12:55.888941"
+      "hash": "55091b8f4ed7794c5e13c5b482e0d53af4c589f76da288fb5beca04d289414ea",
+      "last_updated": "2026-01-21T06:06:21.715360"
     },
     "cli__custom-commands.md": {
       "original_path": "docs/cli/custom-commands.md",
@@ -93,8 +93,8 @@
     "cli__keyboard-shortcuts.md": {
       "original_path": "docs/cli/keyboard-shortcuts.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/keyboard-shortcuts.md",
-      "hash": "ca773e9a45807100cd6108fcd7a4b619952c25f0967f0899d55bce6906ebb7a1",
-      "last_updated": "2026-01-17T00:12:59.046653"
+      "hash": "36608859ca5241de926ad509013c2a60b09ced0c70643e2d68b3777ac83a4edb",
+      "last_updated": "2026-01-21T06:06:25.312517"
     },
     "cli__model-routing.md": {
       "original_path": "docs/cli/model-routing.md",
@@ -422,8 +422,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-21T00:14:33.586047",
-    "fetch_duration_seconds": 32.282375,
+    "last_fetch_completed": "2026-01-21T06:06:50.299054",
+    "fetch_duration_seconds": 32.702003,
     "total_files_discovered": 71,
     "files_fetched_successfully": 70,
     "files_failed": 1,
@@ -434,7 +434,7 @@
     "total_files": 70,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-01-21T00:14:33.586076",
+  "last_updated": "2026-01-21T06:06:50.299080",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
