@@ -273,26 +273,26 @@
     "hooks__best-practices.md": {
       "original_path": "docs/hooks/best-practices.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/hooks/best-practices.md",
-      "hash": "8bb5f1727d7c73dc634bdacfb4af6affe3ba2cab4d5d54c8beafe622a9d9af56",
-      "last_updated": "2026-01-11T16:45:59.754942"
+      "hash": "799200cd442e5ea9050b12160648888ebe01b2fcd6093ea467f1446ccad016bb",
+      "last_updated": "2026-01-22T06:06:09.632220"
     },
     "hooks__index.md": {
       "original_path": "docs/hooks/index.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/hooks/index.md",
-      "hash": "9cdf4122cde3961bff181eaf3b6d118475af22c27b767a63acd7caa06ce006fd",
-      "last_updated": "2026-01-22T00:14:49.283874"
+      "hash": "4feef0ed882faed89dfaa4988221fa31e726f0bb23fd0015b9fdcb4464c53901",
+      "last_updated": "2026-01-22T06:06:10.016857"
     },
     "hooks__reference.md": {
       "original_path": "docs/hooks/reference.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/hooks/reference.md",
-      "hash": "d78d5c1ec8b1d3f0b038134736606fa65d8dfc3cf152fa7642ad03c24b0dee8f",
-      "last_updated": "2026-01-11T16:46:01.092192"
+      "hash": "8d8c2b49ebe8802f25dbf40f4eb40eee1bb4ded01a88b507c8f6a28476fdfacc",
+      "last_updated": "2026-01-22T06:06:10.382417"
     },
     "hooks__writing-hooks.md": {
       "original_path": "docs/hooks/writing-hooks.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/hooks/writing-hooks.md",
-      "hash": "12ffebf4102d7c840f52aef1cc1c578493bd485782bf40e06aa6d344af343da4",
-      "last_updated": "2026-01-11T16:46:01.726699"
+      "hash": "67d4e4251c81a0660025eb491cb65f4ea21121284180f771d0ae9c6335ce1ad2",
+      "last_updated": "2026-01-22T06:06:10.759616"
     },
     "ide-integration__ide-companion-spec.md": {
       "original_path": "docs/ide-integration/ide-companion-spec.md",
@@ -416,8 +416,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-22T00:14:58.072343",
-    "fetch_duration_seconds": 27.949104,
+    "last_fetch_completed": "2026-01-22T06:06:18.207222",
+    "fetch_duration_seconds": 25.683635,
     "total_files_discovered": 70,
     "files_fetched_successfully": 69,
     "files_failed": 1,
@@ -428,7 +428,7 @@
     "total_files": 69,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-01-22T00:14:58.072373",
+  "last_updated": "2026-01-22T06:06:18.207254",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
