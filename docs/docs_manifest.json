@@ -87,8 +87,8 @@
     "cli__keyboard-shortcuts.md": {
       "original_path": "docs/cli/keyboard-shortcuts.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/keyboard-shortcuts.md",
-      "hash": "9d6232d558b3ca96574b70a2e6b727a1c325e5fd88287763de71c4e1a143017b",
-      "last_updated": "2026-01-22T00:14:36.388959"
+      "hash": "bd506885f51f7b24be48537dc4429adee3623bad93a08344e08dd20f660a97a6",
+      "last_updated": "2026-01-22T18:05:41.414042"
     },
     "cli__model-routing.md": {
       "original_path": "docs/cli/model-routing.md",
@@ -369,8 +369,8 @@
     "tools__mcp-server.md": {
       "original_path": "docs/tools/mcp-server.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/tools/mcp-server.md",
-      "hash": "442051d8747d13f2680bdae2aad00f1bf4489e8b1a13b7df0f2a6af69653469b",
-      "last_updated": "2026-01-14T18:05:18.754635"
+      "hash": "3b6fb977e35bf7438f64b77f37c7ff8a1c12d7413007a3c24be1a570772bb017",
+      "last_updated": "2026-01-22T18:05:59.370389"
     },
     "tools__memory.md": {
       "original_path": "docs/tools/memory.md",
@@ -416,8 +416,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-22T12:06:51.689669",
-    "fetch_duration_seconds": 28.622457,
+    "last_fetch_completed": "2026-01-22T18:06:02.228482",
+    "fetch_duration_seconds": 26.649907,
     "total_files_discovered": 70,
     "files_fetched_successfully": 69,
     "files_failed": 1,
@@ -428,7 +428,7 @@
     "total_files": 69,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-01-22T12:06:51.689700",
+  "last_updated": "2026-01-22T18:06:02.228512",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
