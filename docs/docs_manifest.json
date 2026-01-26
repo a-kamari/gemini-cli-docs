@@ -171,8 +171,8 @@
     "cli__uninstall.md": {
       "original_path": "docs/cli/uninstall.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/uninstall.md",
-      "hash": "86c6ac4a17a68a84dbbc2fb8f260ffdbbc5b9bf96b14f45aa10a7c2d65b8c91a",
-      "last_updated": "2026-01-11T16:45:48.714257"
+      "hash": "56ccd35d48fcb9773ed9d8d5748bf66d8641fd055ebb209d5f2ff6e8d3c20940",
+      "last_updated": "2026-01-26T00:14:46.808389"
     },
     "core__index.md": {
       "original_path": "docs/core/index.md",
@@ -219,8 +219,8 @@
     "extensions__index.md": {
       "original_path": "docs/extensions/index.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/extensions/index.md",
-      "hash": "6bfe8baa0d859547225f564f0f928a7079702449e4b17cf87912ca2cba3fc1c0",
-      "last_updated": "2026-01-17T00:13:08.523007"
+      "hash": "f419d9efd55e8855888394bc88861cb45a4ec88cdb9d3a710dc22cee9c8b0647",
+      "last_updated": "2026-01-26T00:14:50.467622"
     },
     "faq.md": {
       "original_path": "docs/faq.md",
@@ -273,26 +273,26 @@
     "hooks__best-practices.md": {
       "original_path": "docs/hooks/best-practices.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/hooks/best-practices.md",
-      "hash": "799200cd442e5ea9050b12160648888ebe01b2fcd6093ea467f1446ccad016bb",
-      "last_updated": "2026-01-22T06:06:09.632220"
+      "hash": "de65902b15cacadbd4553f27ad6ce772c455eb18a883d7a9510901fd52049829",
+      "last_updated": "2026-01-26T00:14:54.685802"
     },
     "hooks__index.md": {
       "original_path": "docs/hooks/index.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/hooks/index.md",
-      "hash": "4feef0ed882faed89dfaa4988221fa31e726f0bb23fd0015b9fdcb4464c53901",
-      "last_updated": "2026-01-22T06:06:10.016857"
+      "hash": "f08ad287cc5c7704fbe55df144a92426f281c8da17b071068c621a1d8f3719a2",
+      "last_updated": "2026-01-26T00:14:55.176399"
     },
     "hooks__reference.md": {
       "original_path": "docs/hooks/reference.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/hooks/reference.md",
-      "hash": "e7d55dc7a674420025e6ab86af2161469f6beb6a08398518df684c33c8004429",
-      "last_updated": "2026-01-24T00:13:21.224631"
+      "hash": "57ab877aade30dc4ebbd0572b1c5051e340073c4e8c4b4605909e48e28e5cdff",
+      "last_updated": "2026-01-26T00:14:55.658394"
     },
     "hooks__writing-hooks.md": {
       "original_path": "docs/hooks/writing-hooks.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/hooks/writing-hooks.md",
-      "hash": "67d4e4251c81a0660025eb491cb65f4ea21121284180f771d0ae9c6335ce1ad2",
-      "last_updated": "2026-01-22T06:06:10.759616"
+      "hash": "720550e732ab6009ad9e8e694353a91b909aefb74dbab721333675b0b822dbb3",
+      "last_updated": "2026-01-26T00:14:56.119134"
     },
     "ide-integration__ide-companion-spec.md": {
       "original_path": "docs/ide-integration/ide-companion-spec.md",
@@ -416,8 +416,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-25T18:04:57.610911",
-    "fetch_duration_seconds": 31.897884,
+    "last_fetch_completed": "2026-01-26T00:15:06.044979",
+    "fetch_duration_seconds": 32.87892,
     "total_files_discovered": 70,
     "files_fetched_successfully": 69,
     "files_failed": 1,
@@ -428,7 +428,7 @@
     "total_files": 69,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-01-25T18:04:57.610939",
+  "last_updated": "2026-01-26T00:15:06.045005",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
