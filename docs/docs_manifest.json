@@ -108,6 +108,12 @@
       "hash": "50f7a0db951884e947c59a70e402c85285f7cc6c62f7ebb372c782b3f524d4ae",
       "last_updated": "2026-01-11T16:45:41.003065"
     },
+    "cli__rewind.md": {
+      "original_path": "docs/cli/rewind.md",
+      "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/rewind.md",
+      "hash": "57b085072f6f2b69b0bcb88513120f29444e6cb98495c6115b4e45dc3b9629d1",
+      "last_updated": "2026-01-28T18:06:57.161518"
+    },
     "cli__sandbox.md": {
       "original_path": "docs/cli/sandbox.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/sandbox.md",
@@ -129,8 +135,8 @@
     "cli__skills.md": {
       "original_path": "docs/cli/skills.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/skills.md",
-      "hash": "67404b8a91fbfd53a827cd62c4179ddced489995915aeb7164fe38de1c267612",
-      "last_updated": "2026-01-28T06:06:45.031763"
+      "hash": "dbcf97f11a409e63e52c1ff2196398fbfeaca8ea96f7ce02a5acf27801f7da91",
+      "last_updated": "2026-01-28T18:06:58.806635"
     },
     "cli__system-prompt.md": {
       "original_path": "docs/cli/system-prompt.md",
@@ -446,19 +452,19 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-28T12:06:45.371344",
-    "fetch_duration_seconds": 27.716387,
-    "total_files_discovered": 75,
-    "files_fetched_successfully": 74,
+    "last_fetch_completed": "2026-01-28T18:07:18.822473",
+    "fetch_duration_seconds": 28.964325,
+    "total_files_discovered": 76,
+    "files_fetched_successfully": 75,
     "files_failed": 1,
     "failed_files": [
       "docs/CONTRIBUTING.md"
     ],
     "source_repository": "google-gemini/gemini-cli",
-    "total_files": 74,
+    "total_files": 75,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-01-28T12:06:45.371371",
+  "last_updated": "2026-01-28T18:07:18.822505",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
