@@ -45,8 +45,8 @@
     "cli__commands.md": {
       "original_path": "docs/cli/commands.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/commands.md",
-      "hash": "4e04e7f7bb504bf633605a211033ebf101b0e12f9b59fdd65f99e669caa1bb85",
-      "last_updated": "2026-01-30T00:16:09.746171"
+      "hash": "414d406d8e849bedba6c1ea84cbc64a0dc4f3241bb6a69022ff385f648cd4d12",
+      "last_updated": "2026-01-30T18:09:33.525066"
     },
     "cli__creating-skills.md": {
       "original_path": "docs/cli/creating-skills.md",
@@ -99,8 +99,8 @@
     "cli__keyboard-shortcuts.md": {
       "original_path": "docs/cli/keyboard-shortcuts.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/keyboard-shortcuts.md",
-      "hash": "fab36168520d3a3a4cf4f696a3c9ec99444dbb53b455533e610d7933ac819c21",
-      "last_updated": "2026-01-29T00:15:59.190439"
+      "hash": "07c6be5106dc7f602b09789ffa295ea8e7b500646498d567fc0e2d9ac2f14188",
+      "last_updated": "2026-01-30T18:09:36.919182"
     },
     "cli__model-routing.md": {
       "original_path": "docs/cli/model-routing.md",
@@ -285,8 +285,8 @@
     "get-started__configuration.md": {
       "original_path": "docs/get-started/configuration.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/get-started/configuration.md",
-      "hash": "c4656ef13171a9612b81f4483cba35724cdd79b9192015e39b646d3e3499400b",
-      "last_updated": "2026-01-30T00:16:29.362478"
+      "hash": "453bd21093704138dc35ec4133985dd823960afe45339555b4d5a5230a859d12",
+      "last_updated": "2026-01-30T18:09:48.600540"
     },
     "get-started__examples.md": {
       "original_path": "docs/get-started/examples.md",
@@ -458,8 +458,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-01-30T12:08:48.658846",
-    "fetch_duration_seconds": 36.812757,
+    "last_fetch_completed": "2026-01-30T18:09:59.145891",
+    "fetch_duration_seconds": 28.712594,
     "total_files_discovered": 77,
     "files_fetched_successfully": 76,
     "files_failed": 1,
@@ -470,7 +470,7 @@
     "total_files": 76,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-01-30T12:08:48.658880",
+  "last_updated": "2026-01-30T18:09:59.145927",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
