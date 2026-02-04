@@ -141,8 +141,8 @@
     "cli__skills.md": {
       "original_path": "docs/cli/skills.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/skills.md",
-      "hash": "442639b5cc6bad1ac119e32cde5dad98368ea273be8ed984cab227bd63fcf7ad",
-      "last_updated": "2026-01-31T00:15:47.990508"
+      "hash": "53939a14042af93bc663d30fbeae67608100845b3a5a41b56c0067458612c832",
+      "last_updated": "2026-02-04T18:15:14.441925"
     },
     "cli__system-prompt.md": {
       "original_path": "docs/cli/system-prompt.md",
@@ -458,8 +458,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-02-04T12:09:43.821838",
-    "fetch_duration_seconds": 35.629807,
+    "last_fetch_completed": "2026-02-04T18:15:35.941392",
+    "fetch_duration_seconds": 31.855625,
     "total_files_discovered": 77,
     "files_fetched_successfully": 76,
     "files_failed": 1,
@@ -470,7 +470,7 @@
     "total_files": 76,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-02-04T12:09:43.821866",
+  "last_updated": "2026-02-04T18:15:35.941422",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
