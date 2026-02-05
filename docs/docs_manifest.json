@@ -9,20 +9,20 @@
     "changelogs__index.md": {
       "original_path": "docs/changelogs/index.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/changelogs/index.md",
-      "hash": "b5f24ec675623d51d69965a52329029ffbf8ae6b7731f8dca59a18e2db7378e1",
-      "last_updated": "2026-01-29T00:15:53.970192"
+      "hash": "460e1c08d0f931231b58c87530f6e2baa35f468772fc01e21f0ecb7c4adb293f",
+      "last_updated": "2026-02-05T06:19:24.109015"
     },
     "changelogs__latest.md": {
       "original_path": "docs/changelogs/latest.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/changelogs/latest.md",
-      "hash": "4eef4d8b047f4f7ec489f692f61439db029da7eaa43d035744e5d68429473ba9",
-      "last_updated": "2026-01-29T00:15:54.343601"
+      "hash": "4d5b89a128e0253ecd7b907b7c614f89df7d6493aa4eca382ef7e0e743bb905d",
+      "last_updated": "2026-02-05T06:19:24.477433"
     },
     "changelogs__preview.md": {
       "original_path": "docs/changelogs/preview.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/changelogs/preview.md",
-      "hash": "ff865199613be455821a33f07c5addb6bbe8f75cd70ce48cf95609d9c54ab6dd",
-      "last_updated": "2026-01-29T00:15:54.759225"
+      "hash": "dba0f3e87651191c47a7c5a52c50c8f1d3150cabb770cc72d3c85700eeff4709",
+      "last_updated": "2026-02-05T06:19:24.842549"
     },
     "cli__authentication.md": {
       "original_path": "docs/cli/authentication.md",
@@ -458,8 +458,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-02-05T00:18:17.703305",
-    "fetch_duration_seconds": 34.03132,
+    "last_fetch_completed": "2026-02-05T06:19:51.518061",
+    "fetch_duration_seconds": 28.235849,
     "total_files_discovered": 77,
     "files_fetched_successfully": 76,
     "files_failed": 1,
@@ -470,7 +470,7 @@
     "total_files": 76,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-02-05T00:18:17.703330",
+  "last_updated": "2026-02-05T06:19:51.518088",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
