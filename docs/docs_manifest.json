@@ -135,8 +135,8 @@
     "cli__settings.md": {
       "original_path": "docs/cli/settings.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/settings.md",
-      "hash": "c2cbef754ffb402f72f0ae735b4ffcfa0030febfed99d552abb7d6f9537eee86",
-      "last_updated": "2026-02-04T06:16:11.137076"
+      "hash": "88e5dc8b7bb1014580e8c4d83923bb0c502559daaf12479b333a1ff372398f76",
+      "last_updated": "2026-02-06T18:14:02.695471"
     },
     "cli__skills.md": {
       "original_path": "docs/cli/skills.md",
@@ -285,8 +285,8 @@
     "get-started__configuration.md": {
       "original_path": "docs/get-started/configuration.md",
       "github_url": "https://github.com/google-gemini/gemini-cli/blob/main/docs/get-started/configuration.md",
-      "hash": "b3a5aa5ec3828543bfb1ad21e36095d1d314193b3ad83f51a7a7ea6060f4495b",
-      "last_updated": "2026-02-05T18:17:00.319663"
+      "hash": "6d9ba54add7daa183d9e9c71ee8f29debd30d920e985af213bd3a6f5f0c8bdcb",
+      "last_updated": "2026-02-06T18:14:13.927325"
     },
     "get-started__examples.md": {
       "original_path": "docs/get-started/examples.md",
@@ -458,8 +458,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2026-02-06T12:10:20.684357",
-    "fetch_duration_seconds": 34.438397,
+    "last_fetch_completed": "2026-02-06T18:14:26.589017",
+    "fetch_duration_seconds": 34.592771,
     "total_files_discovered": 77,
     "files_fetched_successfully": 76,
     "files_failed": 1,
@@ -470,7 +470,7 @@
     "total_files": 76,
     "fetch_tool_version": "1.0"
   },
-  "last_updated": "2026-02-06T12:10:20.684390",
+  "last_updated": "2026-02-06T18:14:26.589061",
   "base_url": "https://raw.githubusercontent.com/a-kamari/gemini-cli-docs/main/docs/",
   "github_repository": "a-kamari/gemini-cli-docs",
   "github_ref": "main",
